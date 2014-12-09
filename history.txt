@@ -1,0 +1,7 @@
+1.27
+* new unlock method
+1.18
++ DMR
+1.16
++ Добавлено VPCheck при отправке CART data;
+* Улучшено определение CART flow при старте;
